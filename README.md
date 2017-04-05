@@ -14,6 +14,7 @@ I prefer to use **_Consolas_** as my font face but it not available on Linux bas
 So, I choosed **_Inconsolata_** on Linux.
 
 Edit the font_face in sublime text settings as below:
+
 **Windows**
 ```
 "font_face": "Consolas",
