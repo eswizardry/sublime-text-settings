@@ -16,11 +16,11 @@ So, I choosed **_Inconsolata_** on Linux.
 Edit the font_face in sublime text settings as below:
 
 **Windows**
-```
+```JSON
 "font_face": "Consolas",
 ```
 
 **Linux**
-```
+```JSON
 "font_face": "Inconsolata",
 ```
