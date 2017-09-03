@@ -7,6 +7,23 @@
 			"selector": "source.python - string - comment - constant.numeric"
 		}
 	],
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"src/test.cpp"
+	],
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Solarized Dark.tmTheme",
 	"draw_minimap_border": true,
@@ -23,7 +40,7 @@
 		"CVS",
 		"__pycache__"
 	],
-	"font_face": "Inconsolata",
+	"font_face": "Consolas",
 	"font_options": "subpixel_antialias",
 	"font_size": 12,
 	"highlight_line": true,
@@ -31,6 +48,8 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"Color Highlighter",
+		"Deviot",
 		"Oasis Theme",
 		"Vintageous"
 	],
@@ -57,6 +76,7 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"vintage_start_in_command_mode": true,
+	"vintageous_use_ctrl_keys": true,
 	"word_wrap": true,
 	"wrap_width": 81
 }
