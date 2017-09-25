@@ -2,8 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Color Highlighter",
-		"Deviot"
+		"Package Control"
 	],
 	"installed_packages":
 	[
@@ -11,18 +10,21 @@
 		"AdvancedNewFile",
 		"Alignment",
 		"AutoFileName",
-		"Base16 Color Schemes",
 		"Block Cursor Everywhere",
 		"Bootstrap 3 Snippets",
 		"Boxy Theme",
 		"BracketHighlighter",
+		"C++ Starting Kit",
 		"Color Highlighter",
 		"ColorPicker",
 		"Colorsublime",
+		"CTags",
+		"Deviot (Arduino IDE)",
 		"DocBlockr",
 		"Dockerfile Syntax Highlighting",
 		"DoxyDoxygen",
 		"Emmet",
+		"FileDiffs",
 		"FileHeader",
 		"Gist",
 		"Git",
@@ -34,6 +36,7 @@
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Neon Color Scheme",
+		"Oasis Theme",
 		"Package Control",
 		"Pretty JSON",
 		"Pretty YAML",
@@ -46,8 +49,8 @@
 		"SublimeLinter-cppcheck",
 		"SublimeLinter-flake8",
 		"SublimeREPL",
-		"Theme - Brogrammer",
 		"Theme - Flatland",
+		"Theme - Soda",
 		"Vintageous",
 		"Zen Tabs"
 	]
