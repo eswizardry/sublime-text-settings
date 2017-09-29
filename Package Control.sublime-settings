@@ -35,6 +35,7 @@
 		"Jinja2",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"Material Theme",
 		"Neon Color Scheme",
 		"Oasis Theme",
 		"Package Control",
@@ -45,6 +46,7 @@
 		"SideBarEnhancements",
 		"SublimeAStyleFormatter",
 		"SublimeCodeIntel",
+		"SublimeGDB",
 		"SublimeLinter",
 		"SublimeLinter-cppcheck",
 		"SublimeLinter-flake8",
@@ -52,6 +54,7 @@
 		"Theme - Flatland",
 		"Theme - Soda",
 		"Vintageous",
+		"WordHighlight",
 		"Zen Tabs"
 	]
 }
