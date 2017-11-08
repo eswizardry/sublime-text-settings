@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Package Control"
 	],
 	"installed_packages":
 	[
@@ -15,6 +14,7 @@
 		"Boxy Theme",
 		"BracketHighlighter",
 		"C++ Starting Kit",
+		"CMakeEditor",
 		"Color Highlighter",
 		"ColorPicker",
 		"Colorsublime",
@@ -36,6 +36,7 @@
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Material Theme",
+		"Material Theme - White Panels",
 		"Neon Color Scheme",
 		"Oasis Theme",
 		"Package Control",
@@ -51,6 +52,7 @@
 		"SublimeLinter-cppcheck",
 		"SublimeLinter-flake8",
 		"SublimeREPL",
+		"Terminal",
 		"Theme - Flatland",
 		"Theme - Soda",
 		"Vintageous",
