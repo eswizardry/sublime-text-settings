@@ -24,3 +24,7 @@ Edit the font_face in sublime text settings as below:
 ```JSON
 "font_face": "Inconsolata",
 ```
+
+**Update 2017/11/30**
+Now I have changed all of my coding font face on both Windows and Linux to `Source Code Pro`. 
+However, I keep above contexts as history and for option to other users.
