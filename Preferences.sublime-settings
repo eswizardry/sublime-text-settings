@@ -5,6 +5,14 @@
 		{
 			"characters": ".",
 			"selector": "source.python - string - comment - constant.numeric"
+		},
+		{
+			"characters": ".:>",
+			"selector": "source.c++ - string - comment - constant.numeric"
+		},
+		{
+			"characters": ".>",
+			"selector": "source.c - string - comment - constant.numeric"
 		}
 	],
 	"binary_file_patterns":
@@ -24,7 +32,7 @@
 		"*.zip"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/Color Highlighter/themes/Oasis.tmTheme",
+	"color_scheme": "Packages/Oasis Theme/Oasis.tmTheme",
 	"draw_minimap_border": true,
 	"enable_telemetry": false,
 	"ensure_newline_at_eof_on_save": true,
@@ -44,7 +52,7 @@
 	"font_size": 11,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"hot_exit": false,
+	"hot_exit": true,
 	"ignored_packages":
 	[
 		"C++",
@@ -72,7 +80,7 @@
 	"material_theme_tabs_separator": true,
 	"overlay_scroll_bars": "enabled",
 	"preview_on_click": false,
-	"remember_open_files": false,
+	"remember_open_files": true,
 	"rulers":
 	[
 		80
