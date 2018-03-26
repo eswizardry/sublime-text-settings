@@ -1,0 +1,7 @@
+{
+  "search_in_project_engine": "the_silver_searcher",
+
+  /* TheSilverSearcher configuration */
+  "search_in_project_TheSilverSearcher_path_to_executable": "ag",
+  "search_in_project_TheSilverSearcher_mandatory_options": "--column --search-files --nogroup --nocolor",
+}

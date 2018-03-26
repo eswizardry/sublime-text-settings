@@ -1,0 +1,24 @@
+{
+  /* Path to rc utility if not found in $PATH */
+  "rc_path": "/home/user/Downloads/rtags/bin/rc",
+
+  /* Seconds for rc utility communication timeout default */
+  "rc_timeout": 0.5,
+
+  /* Path to rdm daemon if not found in $PATH */
+  "rdm_path": "",
+
+  /* Max number of jump steps */
+  "jump_limit": 10,
+
+  /* Supported source file types */
+  "file_types": ["source.c", "source.c++", "source.c++.11"],
+
+  "auto_complete_triggers":
+  [
+    {
+      "characters": ".>:",
+      "selector": "text, source, meta, string, punctuation, constant"
+    }
+  ]
+}
